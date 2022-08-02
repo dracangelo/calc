@@ -1,3 +1,8 @@
+# About the app
+simple react calculator
+
+# live link
+https://dracangelo.github.io/calc
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
